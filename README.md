@@ -13,7 +13,7 @@ Welcome to freeCodeCamp's open source codebase and curriculum!
 
 freeCodeCamp is a friendly open source community where you learn to code and help nonprofits.
 
-**We help our campers build job-worthy portfolios of real apps used by real people, while helping nonprofits.**
+**We help our campers build job-worthy portfolios of real apps used by real people while maintaining nonprofits.**
 
 You start by working through our self-paced, browser-based full stack JavaScript curriculum.
 
@@ -21,7 +21,7 @@ You start by working through our self-paced, browser-based full stack JavaScript
 ##### 1. Front End Certification
 The first section will teach you the basics of how webpages work and also introduce you to JavaScript programming.
 
-Skills you'll practice include `HTML`, `CSS`, `JavaScript`, `jQuery` and `Bootstrap`.
+Skills you'll practice include HTML, CSS, JavaScript, jQuery, and Bootstrap.
 
 To earn this certification, you'll build **10 front-end projects** and implement many **JavaScript algorithms**.
 
